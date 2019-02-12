@@ -1,5 +1,6 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Come fare lo sviluppatore O.S. senza andare in bancarotta]
+
+## Come fare lo sviluppatore O.S. senza andare in bancarott
 
 ---
 ### Chi sono
