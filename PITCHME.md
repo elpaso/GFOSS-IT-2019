@@ -1,5 +1,7 @@
-## Come fare lo sviluppatore O.S. senza andare in bancarotta
+---?color=linear-gradient(to right, #c02425, #f0cb35)
+@title[Come fare lo sviluppatore O.S. senza andare in bancarotta]
 
+---
 ### Chi sono
 
 + Alessandro Pasotti - aka `@elpaso`
