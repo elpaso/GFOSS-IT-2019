@@ -1,4 +1,4 @@
-# Come fare lo sviluppatore O.S. senza andare in bancarotta
+## Come fare lo sviluppatore O.S. senza andare in bancarotta
 
 ### Chi sono
 
