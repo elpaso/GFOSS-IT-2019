@@ -1,6 +1,6 @@
 @title[Come fare lo sviluppatore O.S. senza andare in bancarotta]
 
-## Come fare lo sviluppatore O.S. senza andare in bancarott
+## Come fare lo sviluppatore O.S. senza andare in bancarotta
 
 ---
 ### Chi sono
@@ -9,6 +9,7 @@
 + ItOpen - [www.itopen.it](https://www.itopen.it)
 + **15** anni come sviluppatore GIS Open Source
 
+---
 
 ### QGIS Core
 
@@ -23,6 +24,8 @@ Statistiche (solo C++)
 
 + 511 unit tests
 
+---
+
 ### Come funziona
 
 + Feature
@@ -30,11 +33,15 @@ Statistiche (solo C++)
 
 (Non-)Modello di gestione "Code'n fix"
 
+---
+
 ### Perchè funziona
 
 + Peer-review
 + Q.E.P per feature complesse
 + Community (Hackfest!!!)
+
+---
 
 ### Le ditte
 
@@ -43,23 +50,32 @@ Statistiche (solo C++)
 + centinaia di migliaia di US $ investiti per 3 anni
 + feature e **bugfixing**
 
+---
+
 ### Data Source Manager e GPKG
 
 ![](./doc/assets/images/data-source-manager.png)
+
+---
 
 ### Master Password e auth widget
 
 ![](./doc/assets/images/master-password.png)
 
+---
 
 ### Crowdfunding
 
 Drill-Down in form value relation widget
 ![](./doc/assets/images/drill-down.gif)
 
+---
+
 ### Drill-down HOF
 
 ![](./doc/assets/images/drill-down-hall-of-fame.png)
+
+---
 
 ### QGIS Grant
 
@@ -67,3 +83,4 @@ Drill-Down in form value relation widget
 
 ![](./doc/assets/images/opencl.png)
 
+---
