@@ -10,19 +10,21 @@
 }
 
 .step {
-    width: 800px;
+    width: 960px;
+    height: 600px;
 }
+
 
 body {
     background: white;
     color: #222;
     font-family: 'Libre Baskerville', sans-serif;
-    font-size: 200%;
+    font-size: 150%;
 }
 
 .step img {
-    max-height: 60vh;
-    max-width: 80vw;
+    max-height: 75%;
+    max-width: 80%;
 }
 
 table p {
@@ -171,7 +173,7 @@ li dt {
     font-weight:normal;
 }
 
-.slide ul li {
+ul li {
     margin: 0.5em 0;
 }
 

@@ -34,7 +34,7 @@ C++ / Python
 Statistiche (solo C++)
 
 ================== ============= =========
-Language            files         code
+Language            Files         LOC
 ================== ============= =========
 C++                        1'743   560'249
 Qt  (GUI)                    336   121'889
@@ -85,8 +85,8 @@ Le ditte
 
     + Il caso Boundless
     + 7 sviluppatori (4 core developers)
-    + centinaia di migliaia di US $ investiti per 3 anni
-    + feature e **bugfixing**
+    + Centinaia di migliaia di US $ investiti per 3 anni
+    + Feature e **bugfixing**
 
 ----
 
@@ -142,5 +142,5 @@ OpenCL acceleration
 Paid bugfixing program
 =========================================================
 
-Donazioni: coprono circa il 10% dei bug fix
+Donazioni: coprono circa il 30% dei bug fix
 
